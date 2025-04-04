@@ -126,3 +126,10 @@ body[theme=MUSIC] {
      https://wallhaven.cc/w/l82kpr */
     --shadow: 0px 0px 4px #000000;
 }
+body[theme=slackrrish] {
+    --inputbg: #B1F8F2;
+    --inputborder: #FFFC99;
+    --uibg: #EAFDCF;
+    --textcolor: #272727;
+    --bg: #EFF1F3;
+}
