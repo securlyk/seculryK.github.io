@@ -22,3 +22,7 @@ THINGS TO DO
 - Profiles
 - 30 themes
 - new Slackrrish Theme ✅
++++++++++++++++++++++++++++++++++
+BUGS TO FIX
+---------------------------------
+- 1on1soccer not showing properly
