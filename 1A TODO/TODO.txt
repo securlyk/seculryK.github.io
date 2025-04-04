@@ -26,4 +26,4 @@ THINGS TO DO
 BUGS TO FIX
 ---------------------------------
 - 1on1soccer not showing properly
-- Agar.io not loading ✅
+- Agar.io not loading 
