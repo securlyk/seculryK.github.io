@@ -144,7 +144,7 @@ function loadGames(data) {
 			redirectGame($(this).attr("id"));
 		}
 	});
-	$(document).on("click", "#game img .star", function (event) {
+	$(document).on("click", "#game img-big .star", function (event) {
 		$(this).prop({ class: "material-symbols-outlined fill" });
 	});
 }
