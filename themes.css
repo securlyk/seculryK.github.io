@@ -128,8 +128,8 @@ body[theme=MUSIC] {
 }
 body[theme=slackrrish] {
     --inputbg: #B1F8F2;
-    --inputborder: #FFFC99;
-    --uibg: #EAFDCF;
+    --inputborder: #B7FDFE;
+    --uibg: #86BA90;
     --textcolor: #272727;
-    --bg: #EFF1F3;
+    --bg: #F2EFC7;
 }
