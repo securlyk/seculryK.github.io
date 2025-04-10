@@ -34,6 +34,6 @@
   
   ![](https://github.com/repositoryrepos/repositoryrepos/blob/main/images/wow.png)
 
-  ## REMEMBER TO VIEW THE ALTERNATIVE LINKS PAGE MADE BY
+  ## REMEMBER TO VIEW THE ALTERNATIVE LINKS PAGE MADE BY TSOS
   [![](https://github.com/uslackrr/uslackrr/blob/main/TSOS%20-%20The%20Site%20Of%20Sites.png)](https://thesiteofsites.github.io./)
 
