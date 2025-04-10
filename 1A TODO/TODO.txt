@@ -9,6 +9,9 @@
 THINGS TO DO
 ---------------------------------
 - fix disc widget to My server ( apr 11)
+1273329263923302430 #serv
+1329289920845713471 #chanel
+
 - finish adding ALL the game images (apr 11)
 - Profiles (may 1st)
 - 30 themes (may 1st)
