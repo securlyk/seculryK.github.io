@@ -537,7 +537,7 @@
   {
     "name": "Bitlife",
     "directory": "bitlife",
-    "image": "bitlife.png"
+    "image": "splash.png"
   },
   {
     "name": "Duck Life 1",
@@ -1367,7 +1367,7 @@
   {
     "name": "Bit Planes",
     "directory": "bit-planes",
-    "image": "bitplanes.png"
+    "image": "bitplanes.jpeg"
   },
   {
     "name": "Snow Rider 3D",
@@ -1842,8 +1842,8 @@
   },
       {
     "name": "betrayal.io",
-    "directory": "",
-    "image": ""
+    "directory": "betrayal",
+    "image": "betrayal.jpg"
   },
       {
     "name": "stabfish2.io",
@@ -1862,8 +1862,8 @@
   },
       {
     "name": "battledudes.io",
-    "directory": "",
-    "image": ""
+    "directory": "battledudes",
+    "image": "battledudes.png"
   },
       {
     "name": "warbot.io",
