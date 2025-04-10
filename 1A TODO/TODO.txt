@@ -5,25 +5,17 @@
 ░░░██║░░░╚█████╔╝██████╔╝╚█████╔╝
 ░░░╚═╝░░░░╚════╝░╚═════╝░░╚════╝░
 
-ADD THESE GAMES TODAY!
----------------------------------
-- 1v1lol ✅
-- craftnite
-- monkeymart
-- venge
-- deeeep.io
-- starv.io
-- Classic BS
 +++++++++++++++++++++++++++++++++
 THINGS TO DO
 ---------------------------------
-- fix disc widget to MINE
-- finish adding ALL the game images
-- Profiles
-- 30 themes
+- fix disc widget to My server ( apr 11)
+- finish adding ALL the game images (apr 11)
+- Profiles (may 1st)
+- 30 themes (may 1st)
 - new Slackrrish Theme ✅
 +++++++++++++++++++++++++++++++++
 BUGS TO FIX
 ---------------------------------
-- 1on1soccer not showing properly
-- Agar.io not loading 
+- 1on1soccer not showing properly [OUTAHAND]
+- Agar.io not loading [INPROG.]
+- a dark room loading screen glitch [FIXED]
