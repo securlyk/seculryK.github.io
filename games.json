@@ -1949,5 +1949,10 @@
     "name": "ev.io",
     "directory": "",
     "image": ""
+  },
+      {
+    "name": "Classic Brawl",
+    "directory": "",
+    "image": ""
   }
 ]
