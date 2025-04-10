@@ -1717,8 +1717,8 @@
   },
       {
     "name": "agma.io",
-    "directory": "",
-    "image": ""
+    "directory": "agma",
+    "image": "agma.jpg"
   },
       {
     "name": "cryzen.io",
@@ -1942,8 +1942,8 @@
   },
       {
     "name": "agarpaper.io",
-    "directory": "",
-    "image": ""
+    "directory": "agarpaper",
+    "image": "agarpaper.io.jpg"
   },
       {
     "name": "ev.io",
