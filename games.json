@@ -1852,8 +1852,8 @@
   },
       {
     "name": "aquapark.io",
-    "directory": "",
-    "image": ""
+    "directory": "aquapark",
+    "image": "aquapark.jpg"
   },
       {
     "name": "ducklings.io",
@@ -1877,8 +1877,8 @@
   },
       {
     "name": "armedforces.io",
-    "directory": "",
-    "image": ""
+    "directory": "armedforces",
+    "image": "armedforces.jpeg"
   },
       {
     "name": "venge.io",
