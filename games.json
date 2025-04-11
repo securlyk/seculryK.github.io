@@ -1993,11 +1993,11 @@
       {
     "name": "Narrow One",
     "directory": "NARROW1",
-    "image": ""
+    "image": "narrow1.jpg"
   },
       {
     "name": "Classic Brawl",
-    "directory": "",
-    "image": ""
+    "directory": "ClassicBS",
+    "image": "classicbrawl.jpg"
   }
 ]
