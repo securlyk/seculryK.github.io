@@ -1172,7 +1172,7 @@
   {
     "name": "Boxing Physics 2",
     "directory": "boxingphysics2",
-    "image": "icon.png"
+    "image": "bp2.png"
   },
   {
     "name": "Burger and Frights | 13+ [M]",
@@ -1677,13 +1677,13 @@
   },
       {
     "name": "brutalmania.io",
-    "directory": "",
-    "image": ""
+    "directory": "brutalmania",
+    "image": "BMIO.jpg"
   },
       {
     "name": "bowdown.io",
-    "directory": "",
-    "image": ""
+    "directory": "bowdown",
+    "image": "bowdown.jpeg"
   },
       {
     "name": "kugeln.io",
@@ -1712,8 +1712,8 @@
   },
       {
     "name": "bomber.io",
-    "directory": "",
-    "image": ""
+    "directory": "bomber",
+    "image": "bomber.jpg"
   },
       {
     "name": "agma.io",
@@ -1951,9 +1951,19 @@
     "image": ""
   },
       {
-    "name": "z",
-    "directory": "",
-    "image": ""
+    "name": "bubbleshooter",
+    "directory": "bubbleshooter",
+    "image": "bubbleS.png"
+  },
+      {
+    "name": "baze.io",
+    "directory": "baze",
+    "image": "baze.png"
+  },
+      {
+    "name": "braains.io",
+    "directory": "braains",
+    "image": "braains.jpg"
   },
       {
     "name": "z",
@@ -1981,18 +1991,8 @@
     "image": ""
   },
       {
-    "name": "z",
-    "directory": "",
-    "image": ""
-  },
-      {
-    "name": "z",
-    "directory": "",
-    "image": ""
-  },
-      {
-    "name": "z",
-    "directory": "",
+    "name": "Narrow One",
+    "directory": "NARROW1",
     "image": ""
   },
       {
