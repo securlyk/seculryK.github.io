@@ -1702,13 +1702,13 @@
   },
       {
     "name": "boxer.io",
-    "directory": "",
-    "image": ""
+    "directory": "boxer",
+    "image": "boxer.jpg"
   },
       {
     "name": "sploop.io",
-    "directory": "",
-    "image": ""
+    "directory": "sploop",
+    "image": "sploop.jpg"
   },
       {
     "name": "bomber.io",
@@ -1722,8 +1722,8 @@
   },
       {
     "name": "cryzen.io",
-    "directory": "",
-    "image": ""
+    "directory": "cryzen",
+    "image": "cryzen.jpg"
   },
       {
     "name": "sidearms.io",
@@ -1976,9 +1976,9 @@
     "image": ""
   },
       {
-    "name": "z",
-    "directory": "",
-    "image": ""
+    "name": "ninja.io",
+    "directory": "ninja",
+    "image": "ninja.jpeg"
   },
       {
     "name": "z",
