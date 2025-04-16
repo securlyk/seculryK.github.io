@@ -12,11 +12,21 @@ THINGS TO DO
 1273329263923302430 #serv
 1329289920845713471 #chanel
 
-- finish adding ALL the game images (apr 11)
+- finish adding ALL the game images (FAILED)
 - Profiles (may 1st)
 - 30 themes (may 1st)
 - new Slackrrish Theme ✅
 +++++++++++++++++++++++++++++++++
+WORK LOAD
+----------------
+1st ADD ALL OG GAMES & IMGS
+2nd ADD ALL IO GAMES & IMGS
+3rd ADD GBA & EMULATED GAMES  IMGS
+4th UPDATE SUB CATAGORIES
+5th FIND MORE PEOPLE FOR THE DISCORD
+6TH ADD WEEKLY UPDATES 
+THURSDAY UPDATES!!!!
++++++++++++++++++
 BUGS TO FIX
 ---------------------------------
 - 1on1soccer not showing properly [OUTAHAND]
