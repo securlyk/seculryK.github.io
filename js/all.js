@@ -71,8 +71,7 @@ document.addEventListener("keydown", (e) => {
 			alert("debugging off!");
 		} else {
 			document.cookie = "debugging=1";
-			alert("debugging on!"),document.cookie = "debugging=1";
-			alert("access Test Server? copy this: https://slackerish.github.io./Debug/Test.html");
+			alert("debugging on! access Test Server? copy this: https://slackerish.github.io./Debug/Test.html");
 		}
 		listofchars = "";
 	}
