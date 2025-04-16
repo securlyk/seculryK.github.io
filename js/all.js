@@ -187,7 +187,7 @@ if (location.hash) {
 				console.log("already good :)");
 			} else {
 				let pass = prompt("Type the right password:")
-				if (pass == enc.decode(location.hash.substring(1)) || pass == "Maybe // Maybe") {
+				if (pass == enc.decode(location.hash.substring(1)) || pass == "MaybeMaybe") {
 					localStorage.setItem("selenite.passwordAtt", `[true,${Math.floor(Date.now() / 1000)}]`);
 					console.log("Correct password!");
 				} else {
@@ -197,7 +197,7 @@ if (location.hash) {
 			}
 		} else {
 			let pass = prompt("Type the right password:")
-			if (pass == enc.decode(location.hash.substring(1)) || pass == "Maybe // Maybe") {
+			if (pass == enc.decode(location.hash.substring(1)) || pass == "MaybeMaybe") {
 				localStorage.setItem("selenite.passwordAtt", `[true,${Math.floor(Date.now() / 1000)}]`);
 				console.log("Correct password!");
 			} else {
