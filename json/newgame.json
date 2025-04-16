@@ -1,0 +1,17 @@
+[
+{
+    "name": "SmashKarts.io",
+    "directory": "smashkarts",
+    "image": "smashkarts.jpg"
+  },
+      {
+    "name": "Lordz.io",
+    "image": "lordz.png",
+    "directory": "lordz"
+  },
+      {
+    "name": "Realmz.io",
+    "image": "icon.jpeg",
+    "directory": "realmz"
+  }
+]
