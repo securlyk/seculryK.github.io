@@ -1967,12 +1967,12 @@
   },
       {
     "name": "punch.io",
-    "directory": "",
+    "directory": "punch",
     "image": ""
   },
       {
     "name": "boxing.io",
-    "directory": "",
+    "directory": "boxing",
     "image": ""
   },
       {
@@ -1986,9 +1986,9 @@
     "image": "krbs-adv.png"
   },
       {
-    "name": "z",
-    "directory": "",
-    "image": ""
+    "name": "Crazy Cattle 3D",
+    "directory": "CrazyCattle3D",
+    "image": "CC3D.jpg"
   },
       {
     "name": "Narrow One",
