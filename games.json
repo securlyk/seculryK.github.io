@@ -1757,13 +1757,13 @@
   },
       {
     "name": "mk48.io",
-    "directory": "",
-    "image": ""
+    "directory": "mk48",
+    "image": "mk48.jpeg"
   },
       {
-    "name": "minepark.club??",
-    "directory": "",
-    "image": ""
+    "name": "mineparkour.club",
+    "directory": "mineparkour",
+    "image": "mineparkour.png"
   },
       {
     "name": "deadshot.io",
@@ -1772,8 +1772,8 @@
   },
       {
     "name": "footballbros.io",
-    "directory": "",
-    "image": ""
+    "directory": "footballbros",
+    "image": "fbb.jpg"
   },
       {
     "name": "superhero.io",
@@ -1782,12 +1782,12 @@
   },
       {
     "name": "geoguesser",
-    "directory": "",
+    "directory": "geoguesser",
     "image": ""
   },
       {
     "name": "powerline.io",
-    "directory": "",
+    "directory": "powerline",
     "image": ""
   },
       {
@@ -1812,8 +1812,8 @@
   },
       {
     "name": "splix.io",
-    "directory": "",
-    "image": ""
+    "directory": "splix",
+    "image": "splix.jpeg"
   },
       {
     "name": "spinner.io",
@@ -1822,13 +1822,13 @@
   },
       {
     "name": "pung.io",
-    "directory": "",
-    "image": ""
+    "directory": "pung",
+    "image": "pung.png"
   },
       {
     "name": "braains.io",
-    "directory": "",
-    "image": ""
+    "directory": "braains.io",
+    "image": "braains.jpg"
   },
       {
     "name": "last mage standing",
