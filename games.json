@@ -1951,28 +1951,13 @@
     "image": ""
   },
       {
-    "name": "bubbleshooter",
-    "directory": "bubbleshooter",
-    "image": "bubbleS.png"
-  },
-      {
     "name": "baze.io",
     "directory": "baze",
     "image": "baze.png"
   },
       {
-    "name": "braains.io",
-    "directory": "braains",
-    "image": "braains.jpg"
-  },
-      {
     "name": "punch.io",
     "directory": "punch",
-    "image": ""
-  },
-      {
-    "name": "boxing.io",
-    "directory": "boxing",
     "image": ""
   },
       {
