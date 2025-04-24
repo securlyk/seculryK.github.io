@@ -1747,8 +1747,8 @@
   },
       {
     "name": "voxiom.io",
-    "directory": "",
-    "image": ""
+    "directory": "voxiom",
+    "image": "voxiom.jpg"
   },
       {
     "name": "lurkers.io",
@@ -1767,8 +1767,8 @@
   },
       {
     "name": "deadshot.io",
-    "directory": "",
-    "image": ""
+    "directory": "deadshot",
+    "image": "deadshot.jpeg"
   },
       {
     "name": "footballbros.io",
@@ -1797,8 +1797,8 @@
   },
       {
     "name": "crowdedcity.io",
-    "directory": "",
-    "image": ""
+    "directory": "crowdedcity",
+    "image": "CC.jpg"
   },
       {
     "name": "Eparkour.io",
@@ -1807,8 +1807,8 @@
   },
       {
     "name": "creatur.io",
-    "directory": "",
-    "image": ""
+    "directory": "creatur",
+    "image": "creatur.png"
   },
       {
     "name": "splix.io",
