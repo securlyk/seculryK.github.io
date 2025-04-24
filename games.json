@@ -181,7 +181,7 @@
   },
   {
     "name": "Bubble Shooter",
-    "image": "cover.svg",
+    "image": "bubble.png",
     "directory": "bubbleshooter",
     "recommended": "1"
   },
