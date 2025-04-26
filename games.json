@@ -1981,6 +1981,11 @@
     "image": "narrow1.png"
   },
       {
+    "name": "Duet",
+    "directory": "DUET",
+    "image": "duet.png"
+  },
+      {
     "name": "Classic Brawl",
     "directory": "ClassicBS",
     "image": "classicbrawl.jpg"
