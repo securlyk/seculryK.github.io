@@ -2051,9 +2051,9 @@
     "image": "burgerbounty.jpeg"
   },
       {
-    "name": "DreadHead Parkour",
-    "directory": "",
-    "image": ""
+    "name": "Dreadhead Parkour",
+    "directory": "dreadheadparkour",
+    "image": "dreadhead.jpg"
   },
       {
     "name": "Swingo!",
