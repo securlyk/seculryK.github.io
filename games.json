@@ -1996,6 +1996,51 @@
     "image": "murder.png"
   },
       {
+    "name": "Temple of Boom",
+    "directory": "",
+    "image": ".png"
+  },
+      {
+    "name": "Blumgi Castle",
+    "directory": "",
+    "image": ".png"
+  },
+      {
+    "name": "Blumgi Ball",
+    "directory": "",
+    "image": ".png"
+  },
+      {
+    "name": "Blumgi Slime",
+    "directory": "",
+    "image": ".png"
+  },
+      {
+    "name": "Blumgi Rocket",
+    "directory": "",
+    "image": ".png"
+  },
+      {
+    "name": "Stacktris",
+    "directory": "",
+    "image": ".png"
+  },
+      {
+    "name": "Burger Bounty",
+    "directory": "",
+    "image": ".png"
+  },
+      {
+    "name": "DreadHead Parkour",
+    "directory": "",
+    "image": ".png"
+  },
+      {
+    "name": "",
+    "directory": "",
+    "image": ".png"
+  },
+      {
     "name": "Classic Brawl",
     "directory": "ClassicBS",
     "image": "classicbrawl.jpg"
