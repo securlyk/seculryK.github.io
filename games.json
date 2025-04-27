@@ -2157,8 +2157,8 @@
   },
       {
     "name": "Crazy Cars",
-    "directory": "",
-    "image": ""
+    "directory": "crazycars",
+    "image": "crazycars.png"
   },  
       {
     "name": "house of hazards",
