@@ -1986,6 +1986,16 @@
     "image": "duet.png"
   },
       {
+    "name": "Poor Bunny",
+    "directory": "poorbunny",
+    "image": "poorbunny.png"
+  },
+      {
+    "name": "Murder",
+    "directory": "murder",
+    "image": "murder.png"
+  },
+      {
     "name": "Classic Brawl",
     "directory": "ClassicBS",
     "image": "classicbrawl.jpg"
