@@ -2107,8 +2107,8 @@
   },
       {
     "name": "chicken merge",
-    "directory": "",
-    "image": ""
+    "directory": "chickenmerge",
+    "image": "chicken-merge.png"
   },
       {
     "name": "G Switch 3",
