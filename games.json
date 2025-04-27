@@ -2173,7 +2173,7 @@
   },
       {
     "name": "Classic Brawl",
-    "directory": "ClassicBS",
+    "directory": "classicBS",
     "image": "classicbrawl.png"
   }
 ]
