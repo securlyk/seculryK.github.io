@@ -2003,42 +2003,42 @@
       {
     "name": "Blumgi Castle | ",
     "directory": "blumgi/castle",
-    "image": ".png"
+    "image": "catle.jpeg"
   },
       {
     "name": "Blumgi Ball | ",
     "directory": "blumgi/ball",
-    "image": ".png"
+    "image": "ball.png"
   },
       {
     "name": "Blumgi Slime | ",
     "directory": "blumgi/slime",
-    "image": ".png"
+    "image": "slime.png"
   },
       {
     "name": "Blumgi Rocket | ",
     "directory": "blumgi/rocket",
-    "image": ".png"
+    "image": "rocket.png"
   },
       {
     "name": "Blumgi Soccer | ",
     "directory": "blumgi/soccer",
-    "image": ".png"
+    "image": "soccer.png"
   },
       {
     "name": "Blumgi Racers | ",
     "directory": "blumgi/racers",
-    "image": "blumgi/icons/racers.png"
+    "image": "racers.png"
   },
       {
     "name": "Blumgi Paintball | ",
     "directory": "blumgi/paintball",
-    "image": "blumgi/icons/paintball.png"
+    "image": "paintball.png"
   },
       {
     "name": "Blumgi bloom | ",
     "directory": "blumgi/bloom",
-    "image": "blumgi/icons/bloom.png"
+    "image": "bloom.png"
   },
       {
     "name": "Stacktris",
