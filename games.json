@@ -431,7 +431,7 @@
   {
     "name": "Cookie Clicker",
     "directory": "cookieclicker",
-    "image": "img/perfectCookie.png"
+    "image": "perfectCookie.png"
   },
   {
     "name": "Superhot",
@@ -1837,8 +1837,8 @@
   },
       {
     "name": "copter.io",
-    "directory": "",
-    "image": ""
+    "directory": "copter",
+    "image": "copter.png"
   },
       {
     "name": "betrayal.io",
