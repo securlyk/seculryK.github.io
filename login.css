@@ -10,7 +10,7 @@ body{
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: seagreen;
+  background: var(--bg);
   background-size: cover;
   background-position: center;
 }
