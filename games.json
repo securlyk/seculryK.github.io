@@ -1612,7 +1612,7 @@
   },
       {
     "name": "ferals.io",
-    "directory": "feral",
+    "directory": "ferals",
     "image": "ferals.png"
   },
       {
@@ -1732,8 +1732,8 @@
   },
       {
     "name": "flyufo.io",
-    "directory": "",
-    "image": ""
+    "directory": "flyufo",
+    "image": "flyufo.png"
   },
       {
     "name": "Masked.io",
@@ -2117,8 +2117,8 @@
   },
       {
     "name": "Football Masters",
-    "directory": "",
-    "image": ""
+    "directory": "footballmasters",
+    "image": "footballM.jpg"
   },
       {
     "name": "Merge Cyber Racers",
