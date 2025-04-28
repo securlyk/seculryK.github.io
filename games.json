@@ -1867,8 +1867,8 @@
   },
       {
     "name": "warbot.io",
-    "directory": "",
-    "image": ""
+    "directory": "warbot",
+    "image": "warbot.jpg"
   },
       {
     "name": "gats.io",
@@ -1879,11 +1879,6 @@
     "name": "armedforces.io",
     "directory": "armedforces",
     "image": "armedforces.jpeg"
-  },
-      {
-    "name": "venge.io",
-    "directory": "",
-    "image": ""
   },
       {
     "name": "defly.io",
