@@ -1857,8 +1857,8 @@
   },
       {
     "name": "ducklings.io",
-    "directory": "",
-    "image": ""
+    "directory": "ducklings",
+    "image": "ducklings.jpg"
   },
       {
     "name": "battledudes.io",
