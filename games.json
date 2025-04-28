@@ -1637,8 +1637,8 @@
   },
       {
     "name": "fishington.io",
-    "directory": "",
-    "image": ""
+    "directory": "fishington",
+    "image": "fish.jpg"
   },
       {
     "name": "punG.io",
