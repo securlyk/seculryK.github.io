@@ -133,3 +133,10 @@ body[theme=selenite] {
     --textcolor: #fff;
     --bg: #10002b;
 }
+body[theme=nucleus] {
+    --inputbg: #4e070d;
+    --inputborder: #480201;
+    --uibg: #79456f;
+    --textcolor: #d8d8d8;
+    --bg: #0d1038;
+}
