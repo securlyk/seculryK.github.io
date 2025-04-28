@@ -502,7 +502,7 @@
   {
     "name": "Fireboy & Watergirl 1",
     "directory": "fireboywatergirl",
-    "image": "icon.png"
+    "image": "logo.jpeg"
   },
   {
     "name": "Gun Mayhem",
@@ -907,7 +907,7 @@
   {
     "name": "Fireboy & Watergirl 3",
     "directory": "fireboywatergirl3",
-    "image": "icon.png"
+    "image": "fireboywatergirl3.jpg"
   },
   {
     "name": "Fireboy & Watergirl 4",
@@ -1613,7 +1613,7 @@
       {
     "name": "ferals.io",
     "directory": "feral",
-    "image": "feral.png"
+    "image": "ferals.png"
   },
       {
     "name": "deeeep.io",
