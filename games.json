@@ -214,7 +214,7 @@
   {
     "name": "GBA Emulator",
     "directory": "gba",
-    "image": "icon.png",
+    "image": "gba.jpg",
     "recommended": "1"
   },
   {
