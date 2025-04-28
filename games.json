@@ -732,7 +732,7 @@
   {
     "name": "Cut The Rope Holday",
     "directory": "cuttherope-holiday",
-    "image": "Holiday_Gift.webp"
+    "image": "xmas.png"
   },
   {
     "name": "Helix Jump",
@@ -1342,7 +1342,7 @@
   {
     "name": "CSGO Case Clicker",
     "directory": "csgoclicker",
-    "image": "images/case1.png"
+    "image": "case1.png"
   },
   {
     "name": "The Final Earth 2",
