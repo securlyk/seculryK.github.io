@@ -1802,8 +1802,8 @@
   },
       {
     "name": "Eparkour.io",
-    "directory": "",
-    "image": ""
+    "directory": "eparkour",
+    "image": "epkr.jpg"
   },
       {
     "name": "creatur.io",
@@ -1897,8 +1897,8 @@
   },
       {
     "name": "escape road.io",
-    "directory": "",
-    "image": ""
+    "directory": "escaperoad",
+    "image": "escaperoad.jpg"
   },
       {
     "name": "surviv.io",
@@ -1921,9 +1921,9 @@
     "image": ""
   },
       {
-    "name": "evowargames",
-    "directory": "",
-    "image": ""
+    "name": "evowars.io",
+    "directory": "evowars",
+    "image": "evowar.png"
   },
       {
     "name": "tinytanks.io",
