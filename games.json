@@ -1102,7 +1102,7 @@
   {
     "name": "Doge Miner",
     "directory": "dogeminer",
-    "image": "img/dogeminer_300x300.png"
+    "image": "dogeminer_300x300.png"
   },
   {
     "name": "Soccer Random",
