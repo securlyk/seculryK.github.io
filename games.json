@@ -1942,8 +1942,8 @@
   },
       {
     "name": "ev.io",
-    "directory": "",
-    "image": ""
+    "directory": "ev",
+    "image": "ev.png"
   },
       {
     "name": "baze.io",
