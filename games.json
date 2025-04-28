@@ -301,7 +301,7 @@
   {
     "name": "Death Run 3D",
     "directory": "death-run-3d",
-    "image": "img/death.png"
+    "image": "death.png"
   },
   {
     "name": "Gun Mayhem 2",
@@ -1671,9 +1671,9 @@
     "image": ""
   },
       {
-    "name": "devast io games",
-    "directory": "",
-    "image": ""
+    "name": "devast.io",
+    "directory": "devast",
+    "image": "devast.png"
   },
       {
     "name": "brutalmania.io",
@@ -1892,8 +1892,8 @@
   },
       {
     "name": "defly.io",
-    "directory": "",
-    "image": ""
+    "directory": "defly",
+    "image": "defly.png"
   },
       {
     "name": "LOLBeans.io",
