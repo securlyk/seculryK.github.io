@@ -150,12 +150,6 @@
     "recommended": "1"
   }, 
     {
-    "name": "Yohoho.io 2",
-    "image": "cover.svg",
-    "directory": "yohoho",
-    "recommended": "1"
-  },
-    {
     "name": "Tube Jumpers",
     "image": "cover.svg",
     "directory": "tube-jumpers",
@@ -1626,9 +1620,9 @@
     "image": "logo.png"
   },
       {
-    "name": "yohoh.io",
-    "directory": "",
-    "image": ""
+    "name": "yohoho.io",
+    "directory": "yohoho",
+    "image": "yohoho.jpg"
   },
       {
     "name": "state.io",
