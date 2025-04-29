@@ -2026,9 +2026,19 @@
     "image": "paintball.png"
   },
       {
-    "name": "Blumgi bloom | ",
+    "name": "Blumgi Bloom | ",
     "directory": "blumgi/bloom",
     "image": "bloom.png"
+  },
+      {
+    "name": "Blumgi Merge | ",
+    "directory": "blumgi/merge",
+    "image": "merge.png"
+  },
+      {
+    "name": "Blumgi Dragon | ",
+    "directory": "blumgi/dragon",
+    "image": "dragon.png"
   },
       {
     "name": "Stacktris",
