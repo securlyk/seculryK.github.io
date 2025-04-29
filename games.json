@@ -1786,9 +1786,9 @@
     "image": ""
   },
       {
-    "name": "geoguesser",
-    "directory": "geoguesser",
-    "image": ""
+    "name": "geoguessr.io",
+    "directory": "geoguessr",
+    "image": "geoguessr.jpg"
   },
       {
     "name": "powerline.io",
@@ -1877,8 +1877,8 @@
   },
       {
     "name": "gats.io",
-    "directory": "",
-    "image": ""
+    "directory": "gats",
+    "image": "gats.jpg"
   },
       {
     "name": "armedforces.io",
@@ -2117,8 +2117,8 @@
   },
       {
     "name": "G Switch 3",
-    "directory": "",
-    "image": ""
+    "directory": "gswitch3",
+    "image": "gswitch3.png"
   },
       {
     "name": "Merge Round Racers",
