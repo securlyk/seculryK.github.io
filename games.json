@@ -775,6 +775,11 @@
     "image": "subsurf.jpg"
   },
   {
+    "name": "Subway Surfers Angry Gran Run",
+    "directory": "angrygranrun",
+    "image": "AGR.png"
+  },
+  {
     "name": "Madalin Cars",
     "directory": "madalincars",
     "image": "icon.png"
@@ -2031,12 +2036,12 @@
     "image": "bloom.png"
   },
       {
-    "name": "Blumgi Merge | ",
+    "name": "Blumgi | Merge | ",
     "directory": "blumgi/merge",
     "image": "merge.png"
   },
       {
-    "name": "Blumgi Dragon | ",
+    "name": "Blumgi | Dragon | ",
     "directory": "blumgi/dragon",
     "image": "dragon.png"
   },
