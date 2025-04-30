@@ -1650,8 +1650,8 @@
   },
       {
     "name": "zombsroyale.io",
-    "directory": "",
-    "image": ""
+    "directory": "zombs-royale",
+    "image": "zombs.jpg"
   },
       {
     "name": "shapez.io",
