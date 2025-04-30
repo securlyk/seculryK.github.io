@@ -140,3 +140,17 @@ body[theme=nucleus] {
     --textcolor: #d8d8d8;
     --bg: #0d1038;
 }
+body[theme=shark] {
+    --inputbg: #B7FDFE;
+    --inputborder: #1B4353;
+    --uibg: #6DAEDB;
+    --textcolor: #d8d8d8;
+    --bg: #84E6F8;
+}
+body[theme=watermeloner] {
+    --inputbg: #A51C30;
+    --inputborder: #2B9720;
+    --uibg: #5EF38C;
+    --textcolor: #d8d8d8;
+    --bg: #C52233;
+}
