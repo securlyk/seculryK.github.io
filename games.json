@@ -1649,6 +1649,11 @@
     "image": ""
   },
       {
+    "name": "zombs.io",
+    "directory": "zombs",
+    "image": "zombs.jpg"
+  },
+      {
     "name": "zombsroyale.io",
     "directory": "zombs-royale",
     "image": "zombs.jpg"
@@ -2158,6 +2163,11 @@
     "name": "idle lumber inc.",
     "directory": "",
     "image": ""
+  },
+      {
+    "name": "zlax.io",
+    "directory": "zlax",
+    "image": "zlax.jpg"
   },
       {
     "name": "Classic Brawl",
