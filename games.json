@@ -1380,7 +1380,7 @@
   {
     "name": "Watermelon Game",
     "directory": "watermelongame",
-    "image": "assets/sprites/tittle.png"
+    "image": "title.png"
   },
 
       
