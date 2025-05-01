@@ -2060,8 +2060,8 @@
   },
       {
     "name": "Tiger Simulator 3D",
-    "directory": "",
-    "image": ""
+    "directory": "tiger-sim-3d",
+    "image": "tigersim.png"
   },
       {
     "name": "Master Chess",
