@@ -1690,8 +1690,8 @@
   },
       {
     "name": "trapZ.io",
-    "directory": "",
-    "image": ""
+    "directory": "trapz",
+    "image": "trapz.png"
   },
       {
     "name": "boxer.io",
@@ -1915,8 +1915,8 @@
   },
       {
     "name": "tinytanks.io",
-    "directory": "",
-    "image": ""
+    "directory": "tinytanks",
+    "image": "tank.png"
   },
       {
     "name": "superhex.io",
@@ -2079,11 +2079,6 @@
     "image": ""
   },
       {
-    "name": "Tiny Fishing",
-    "directory": "",
-    "image": ""
-  },
-      {
     "name": "Moto x3m",
     "directory": "",
     "image": ""
@@ -2168,6 +2163,11 @@
     "name": "zlax.io",
     "directory": "zlax",
     "image": "zlax.jpg"
+  },
+      {
+    "name": "twix.io",
+    "directory": "twix",
+    "image": "twix.png"
   },
       {
     "name": "Classic Brawl",
