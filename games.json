@@ -1735,8 +1735,8 @@
   },
       {
     "name": "warbrokers.io",
-    "directory": "",
-    "image": ""
+    "directory": "warbroker",
+    "image": "warbroker.jpg"
   },
       {
     "name": "voxiom.io",
