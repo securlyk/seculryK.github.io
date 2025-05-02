@@ -2049,13 +2049,13 @@
   },
       {
     "name": "tankar.io",
-    "directory": "",
-    "image": ""
+    "directory": "tankar",
+    "image": "tankar.jpg"
   },
       {
     "name": "tanx.io",
-    "directory": "",
-    "image": ""
+    "directory": "tanx",
+    "image": "tanx.jpg"
   },
       {
     "name": "Tiger Simulator 3D",
@@ -2064,8 +2064,8 @@
   },
       {
     "name": "Master Chess",
-    "directory": "",
-    "image": ""
+    "directory": "Master-chess",
+    "image": "Master.jpg"
   },
       {
     "name": "Masked Forces",
