@@ -54,12 +54,6 @@
     "recommended": "1"
   },
       {
-    "name": "TAG | Mini Game",
-    "image": "TAG.jpeg",
-    "directory": "TAG",
-    "recommended": "1"
-  },
-      {
     "name": "Eaglercraft 1.5.2",
     "image": "icon.png",
     "directory": "eaglercraft",
