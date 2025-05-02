@@ -1335,7 +1335,7 @@
   {
     "name": "The Final Earth 2",
     "directory": "thefinalearth2",
-    "image": "icons/favicon.png"
+    "image": "favicon.png"
   },
   {
     "name": "Baldi's Basics",
@@ -1980,8 +1980,8 @@
   },
       {
     "name": "Temple of Boom",
-    "directory": "",
-    "image": ".png"
+    "directory": "templeofboom",
+    "image": "boom.png"
   },
       {
     "name": "Blumgi Castle | ubg69420",
