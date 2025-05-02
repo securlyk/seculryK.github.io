@@ -1894,8 +1894,8 @@
   },
       {
     "name": "taming.io",
-    "directory": "",
-    "image": ""
+    "directory": "taming",
+    "image": "taming.jpeg"
   },
       {
     "name": "minefun.io",
