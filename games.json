@@ -2029,8 +2029,8 @@
   },
       {
     "name": "Stacktris",
-    "directory": "",
-    "image": ".png"
+    "directory": "stacktris",
+    "image": "stacktris.png"
   },
       {
     "name": "Burger Bounty",
@@ -2044,8 +2044,8 @@
   },
       {
     "name": "Swingo!",
-    "directory": "",
-    "image": ""
+    "directory": "swingo",
+    "image": "swingo.avif"
   },
       {
     "name": "tankar.io",
