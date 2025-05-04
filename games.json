@@ -1764,7 +1764,7 @@
   },
       {
     "name": "superhero.io",
-    "directory": "",
+    "directory": "superhero",
     "image": ""
   },
       {
@@ -1884,8 +1884,8 @@
   },
       {
     "name": "surviv.io",
-    "directory": "",
-    "image": ""
+    "directory": "surviv",
+    "image": "surviv.jpg"
   },
       {
     "name": "stabfish.io",
@@ -1914,7 +1914,7 @@
   },
       {
     "name": "superhex.io",
-    "directory": "",
+    "directory": "superhex",
     "image": ""
   },
       {
