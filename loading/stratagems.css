@@ -18,7 +18,7 @@
 	z-index: 100000000;
 }
 .preloader:before {
-	content: 'Games';
+	content: 'Stratagems';
 	position: absolute;
 	font-size: 12em;
 	font-weight: 900;
