@@ -904,7 +904,7 @@
   {
     "name": "Hextris",
     "directory": "hextris",
-    "image": "images/icons/apple-touch-152.png"
+    "image": "transparent.svg"
   },
   {
     "name": "Sprinter",
