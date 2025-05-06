@@ -2084,8 +2084,8 @@
   },
       {
     "name": "idle digging tycoon",
-    "directory": "",
-    "image": ""
+    "directory": "idlediggingtycoon",
+    "image": "dig.jpg"
   },
       {
     "name": "stick merge",
@@ -2155,8 +2155,8 @@
       
       {
     "name": "idle lumber inc.",
-    "directory": "",
-    "image": ""
+    "directory": "idlelumebric",
+    "image": "wood.jpg"
   },
       {
     "name": "zlax.io",
