@@ -2074,8 +2074,8 @@
   },
       {
     "name": "Idle Ants",
-    "directory": "",
-    "image": ""
+    "directory": "idle-ants",
+    "image": "idle.jpg"
   },
       {
     "name": "Moto x3m",
@@ -2149,8 +2149,8 @@
   },  
       {
     "name": "house of hazards",
-    "directory": "",
-    "image": ""
+    "directory": "houseofhazards",
+    "image": "hazard.jpg"
   },
       
       {
